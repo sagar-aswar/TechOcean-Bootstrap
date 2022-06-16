@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Click Here](https://github.com/sagar-aswar/TechOcean-Bootstrap)
+- Live Site URL: [Click Here](https://sagar-aswar.github.io/TechOcean-Bootstrap/)
 
 ### Built with
 
